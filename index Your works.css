@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task</title>
+    <link rel="stylesheet" href="./task.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="outer">
+        <div class="inner">
+            <i class="fa-regular fa-user"></i>
+            <h1>CAROLINE THOMPSON</h1>
+            <P>ART DIRECTOR</P>
+
+        </div>
+        <div class="inner2">
+            <table cellspacing="35px">
+                <tr>
+                    <td>2022- 2023</td>
+                    <td>
+                        <h4>Creative Minds Graphic Design Studio California - Senior Art Director</h4>
+                        <p>Generating and developing ideas to present to the client</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2021- 2022</td>
+                    <td>
+                        <h4>Mega Giants Publishing and studio, junior atr director</h4>
+                        <p>working on a design to produce an effective advertising campaigning.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2021- 2022</td>
+                    <td>
+                        <h4>Mega Giants Publishing and studio, junior atr director</h4>
+                        <p>working on a design to produce an effective advertising campaigning.</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="inner3">
+            <i class="fa-light fa-ballot-check"></i>
+            <table cellspacing="35px">
+                <tr>
+                    <td>UI/UX</td>
+                    <td><i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i>&nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td>Growth Marketing</td>
+                    <td><i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i>&nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td>Typography</td>
+                    <td><i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td>Video Production</td>
+                    <td><i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i>&nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td>Print Design</td>
+                    <td><i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i> &nbsp;
+                        <i class="fa-solid fa-circle"></i>&nbsp;
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="inner4">
+            <i class="fa-thin fa-lightbulb-on"></i>
+            <i id="bulb" class="fa-sharp fa-solid fa-lightbulb-on"></i>
+        </div>
+
+    </div>
+</body>
+
+</html>
